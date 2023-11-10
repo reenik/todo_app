@@ -1,0 +1,8 @@
+https://github.com/reenik/todo_app.git
+
+ssh://git@github.com/reenik/todo_app.git
+
+git command to let ssl verify:
+git config --global http.sslVerify false
+after pushing the code remember to 
+git config --global http.sslVerify true
