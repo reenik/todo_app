@@ -1,8 +1,10 @@
 This is first
 This is second
-This is third
+search google to make soup
 Adding new data
 New text added
-Added new line todo in list
-new todo from gui
 this file is commit in git!
+search google
+add items from menu
+new line added here
+this program is fine
