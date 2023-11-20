@@ -13,9 +13,7 @@ list_box = pygui.Listbox(values=fun.get_todos(),
 edit_button = pygui.Button("Edit list")
 
 complete_button = pygui.Button("Completed")
-
 exit_button = pygui.Button("EXIT")
-
 output = pygui.Text(key="output", text_color='black')
 
 window = pygui.Window('My To-Do App',
