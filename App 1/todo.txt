@@ -2,7 +2,6 @@ search google to make soup
 Adding new data
 this file is commit in git!
 add items from menu
-new line added here
 this program is fine
-This is first
-added from google
+added from google to edit
+eat a banana
