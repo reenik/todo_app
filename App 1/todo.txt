@@ -2,3 +2,5 @@ download chrome.
 update edge browser.
 delete chrome borwser.
 send the mail.
+add new profile to chrome
+new profile added
