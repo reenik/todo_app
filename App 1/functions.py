@@ -6,6 +6,7 @@ if not os.path.exists(FILE_PATH):
     with open(FILE_PATH, "w") as file_write:
         pass
 
+
 def get_todos(filepath=FILE_PATH):
     """ Read a text file and return the list of
     to-do items.
@@ -19,7 +20,7 @@ def get_todos(filepath=FILE_PATH):
 def write_todos(todos, filepath=FILE_PATH):
     """ Write a to-do item list in the text file."""
     with open(filepath, 'w') as file_w:
-        local_user_todos = file_w.writelines(todos)
+        file_w.writelines(todos)
 
 
 print("Called function:", __name__)
